@@ -36,3 +36,8 @@ print('The type of tuple_back_from_list is {}'.format(type(tuple_back_from_list)
 # looping through a tuple
 for weekend in weekend_tuple:
     print(weekend)
+
+def say_hi():
+    print("hello")
+
+say_hi()
