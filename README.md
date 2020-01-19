@@ -16,9 +16,6 @@ print ('-' * 5 ) will give -----
 4. List has syntax for creating and accessing the list, using negative indices, append method to append items at the end of the list, extend method to add multiple items in a list, slicing to access elements between 2 indices, deleting elements of list
 5. ExceptionHandling has syntax for writing try block and handle exception
 6. LoopDemo has syntax for writing for loop, while loop
-7. SortingAndRanges has the yntax for sorting a list
+7. SortingAndRanges has the syntax for sorting a list, how to print the length of an array, using range function to print the range of numbers starting from 0 to range specified (not including the range number istelf); Range can also be used to print numbers within a given range using start and stop parameters; Range method is alos used with start, stop and step parameter to tell how much difference is needed between 2 numbers; using range for a list of strings
 
 
-
-# python_basics_week01
-# python_basics_week01
