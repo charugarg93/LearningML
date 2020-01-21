@@ -1,7 +1,8 @@
 The Python implementation compiles the files as needed. For this reason, Java is often called a compiled language, while Python is called an interpreted language. 
 
-Basic Foundation course completed from Udemy : Cert No UC-4N5MURKW
-***Folder contains the pdf of the certification of completion***
+Basic Foundation course completed from Udemy : Certifcate No UC-4N5MURKW
+***The git Repo contains the pdf of the certification of completion***
+
 KEY POINTS
 
 1. To launch the python IDE, type idle3 on the terminal.
@@ -45,5 +46,3 @@ We can give mulitple modes aslo like : rb, w+ and so on.
 10. FilesDemo has syntax for opening a file, reading the content of it and then printing it, using tell method to tell the current location, seek method to go to a specified offset, closing a file manually, automatically closing a file, reading the file line by line, modes of opening a file.
 11. ModulesDemo has the syntax for importing other modules, importing just the method or just a given attribute of another module
 11. ModulesDemo has the syntax for importing other modules, importing just the method or just a given attribute of another module
-
-
